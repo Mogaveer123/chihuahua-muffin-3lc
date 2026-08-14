@@ -1,4 +1,4 @@
-Chihuahua vs. Muffin Classifier 🐶🧁
+# Chihuahua vs. Muffin Classifier 🐶🧁
 🏆 3rd Place Winner - 24-Hour AI Hackathon!
 
 What is this project?
